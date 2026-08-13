@@ -112,5 +112,5 @@ You can find the installation instructions and guides on the documentation site:
 ## ⭐ Star History
 
 <div align="center">
-<img width="600" src="https://api.star-history.com/svg?repos=TECH7Fox/sipcore-hass-integration,TECH7Fox/asterisk-hass-addons,TECH7Fox/asterisk-hass-integration&type=date&legend=top-left" alt="Star History Chart" />
+<img width="600" src="https://star-history.dera.page/svg?repos=TECH7Fox/sipcore-hass-integration,TECH7Fox/asterisk-hass-addons,TECH7Fox/asterisk-hass-integration&type=date&legend=top-left" alt="Star History Chart" />
 </div>
