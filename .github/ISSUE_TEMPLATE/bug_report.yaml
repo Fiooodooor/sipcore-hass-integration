@@ -2,7 +2,6 @@ name: Bug Report
 description: Report a defect in SIP Core, official cards/popups, WebRTC calling, or related Home Assistant integration behavior.
 title: "[Bug]: "
 labels: [bug, needs-triage]
-
 body:
   - type: markdown
     attributes:
@@ -18,7 +17,6 @@ body:
         - Installation / HACS / docs problems that look like bugs
 
         For feature ideas or enhancements, use the Feature Request template instead.
-
   - type: dropdown
     id: area
     attributes:
